@@ -9,7 +9,7 @@
 
 <br>
 
-<h3 align="left">Languages:</h3>
+<h2 align="left">Languages, Libraries, and Tools:</h2>
 <div>
   <img  alt="Python" src ="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img  alt="Java" src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -19,11 +19,8 @@
   <img  alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img  alt="Arduino" src="https://img.shields.io/badge/Arduino-3186a0.svg?style=for-the-badge&logo=arduino&logoColor=white"/>
 </div>
-<h3 align="left">Tools:</h3>
+<br>
 <div>
-  <img  alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img  alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img  alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img  alt="TensorFlow" src ="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
   <img  alt="Keras" src ="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
   <img  alt="scikit-learn" src ="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
@@ -37,9 +34,15 @@
   <img  alt="BeautifulSoup" src ="https://img.shields.io/badge/BeautifulSoup-563D7C?style=for-the-badge&logo=beautifulsoup4&logoColor=white"/>
   <img  alt="Selenium" src ="https://img.shields.io/badge/-Selenium-05122A?style=for-the-badge&logo=selenium&logoColor=white"/>
 </div>
+<br>
+<div>
+  <img  alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img  alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img  alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</div>
 
 <br>
 
-<h3 align="left">Stats:</h3>
+<h2 align="left">Stats:</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ericzhou16&show_icons=true&locale=en&layout=compact" alt="Most Used Programming Languages" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ericzhou16&" alt="Streak and Commits" />
