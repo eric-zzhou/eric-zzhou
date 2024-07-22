@@ -9,5 +9,5 @@
 <br>
 
 <h2 align="left">Stats:</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eric-zzhou&hide=css,scss,html,typescript,jupyter&theme=tokyonight" alt="Most Used Programming Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eric-zzhou&hide=css,scss,html,typescript&langs_count=6&theme=tokyonight" alt="Most Used Programming Languages" />
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=eric-zzhou&theme=highcontrast&border_radius=10" alt="GitHub Streak" /></a>
