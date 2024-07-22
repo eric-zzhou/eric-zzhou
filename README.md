@@ -10,4 +10,4 @@
 
 <h2 align="left">Stats:</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eric-zzhou&show_icons=true&locale=en&layout=compact" alt="Most Used Programming Languages" />
-[![GitHub Streak](https://streak-stats.demolab.com/?user=eric-zzhou)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=eric-zzhou&theme=highcontrast&border_radius=10" alt="GitHub Streak" /></a>
