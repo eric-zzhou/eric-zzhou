@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **C++ and algorithms**
 - :computer: Check out my **[personal website](https://eric-zzhou.github.io/)**
 - 📫 Contact me at **ez255@cornell.edu**
-- ⚡ Fun fact: I lived in Beijing for 6 years
+- ⚡ Fun fact: My first job was as a retail sales associate at Men's Wearhouse.
 <br>
 
 <h2 align="left">Stats:</h2>
